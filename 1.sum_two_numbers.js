@@ -10,3 +10,5 @@ function myFunction(a, b) {
  console.log(myFunction(4,2));
 
  console.log(multiplyFunction(3,3));
+
+console.log("added it in Github");
