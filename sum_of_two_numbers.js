@@ -5,3 +5,5 @@ function myFunction (a, b)
 {
     return a + b;
 }
+
+//added into new branch
