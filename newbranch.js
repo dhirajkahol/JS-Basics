@@ -1,3 +1,6 @@
 //This is a new branch
-let a = 5;
-console.log(a);
+
+let x = 5;
+let y = 3;
+
+console.log(typeof x);
